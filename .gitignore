@@ -1,0 +1,7 @@
+# sbt specific
+.cache/
+.history/
+.history
+.lib/
+dist/*
+target/
